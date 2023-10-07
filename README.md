@@ -1,4 +1,4 @@
-# Dès Vu Technologies Hacktoberfest Event
+# Hacktoberfest 2023-Nepal
 
 Are you ready to celebrate open source and contribute to the global tech community? Dèsvu Technologies is thrilled to announce our Hacktoberfest event, and we invite you to join us in Pokhara, Nepal, for an exciting day of coding, collaboration, and learning!
 
