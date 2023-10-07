@@ -37,6 +37,9 @@ Don't miss this opportunity to be a part of the global open source movement righ
 
 ![d02db7a9 (1)](https://github.com/Des-Vu-Technologies/Hacktober-Fest-2023/assets/59717384/bd83dd01-dbf9-4121-9da9-67a7c86f1b79)(https://events.mlh.io/events/10516-hacktoberfest-2023-nepal)
 
+[![d02db7a9 (1)]([your-image-url.jpg](https://github.com/Des-Vu-Technologies/Hacktober-Fest-2023/assets/59717384/bd83dd01-dbf9-4121-9da9-67a7c86f1b79))](https://events.mlh.io/events/10516-hacktoberfest-2023-nepal)
+
+
 For updates and more information, follow us on [Facebook](https://www.facebook.com/DesVuTechnologies) or contact us through our [website](https://desvutech.com/).
 
 We look forward to seeing you at Dès Vu Technologies' Hacktoberfest event!
