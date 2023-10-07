@@ -2,6 +2,9 @@
 
 Are you ready to celebrate open source and contribute to the global tech community? Dèsvu Technologies is thrilled to announce our Hacktoberfest event, and we invite you to join us in Pokhara, Nepal, for an exciting day of coding, collaboration, and learning!
 
+![36030e1c](https://github.com/Des-Vu-Technologies/Hacktober-Fest-2023/assets/59717384/3b692de6-1d40-4015-a66a-9ad4e30bc95e)
+
+
 ## What is Hacktoberfest?
 
 Hacktoberfest is a month-long celebration of open source software. It's an annual event that encourages developers, designers, and tech enthusiasts from around the world to contribute to open source projects. By participating, you can gain valuable experience, improve your coding skills, and connect with a vibrant community of developers.
